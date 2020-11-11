@@ -1,0 +1,3 @@
+# .gitlab-ci.yml (app)
+job:
+  script: Do something
